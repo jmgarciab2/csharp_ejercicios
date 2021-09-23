@@ -1,21 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jmgar\\Ejercicios C#\\Practica1_CalafatSerranoAlejandro_GarciaBaenaJulianManuel\\Practica1_CalafatSerranoAlejandro_GarciaBaenaJulianManuel.csproj": {}
+    "C:\\Users\\julia\\Source\\Repos\\jmgarciab2\\csharp_ejercicios\\Practica1_CalafatSerranoAlejandro_GarciaBaenaJulianManuel\\Practica1_CalafatSerranoAlejandro_GarciaBaenaJulianManuel.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jmgar\\Ejercicios C#\\Practica1_CalafatSerranoAlejandro_GarciaBaenaJulianManuel\\Practica1_CalafatSerranoAlejandro_GarciaBaenaJulianManuel.csproj": {
+    "C:\\Users\\julia\\Source\\Repos\\jmgarciab2\\csharp_ejercicios\\Practica1_CalafatSerranoAlejandro_GarciaBaenaJulianManuel\\Practica1_CalafatSerranoAlejandro_GarciaBaenaJulianManuel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jmgar\\Ejercicios C#\\Practica1_CalafatSerranoAlejandro_GarciaBaenaJulianManuel\\Practica1_CalafatSerranoAlejandro_GarciaBaenaJulianManuel.csproj",
+        "projectUniqueName": "C:\\Users\\julia\\Source\\Repos\\jmgarciab2\\csharp_ejercicios\\Practica1_CalafatSerranoAlejandro_GarciaBaenaJulianManuel\\Practica1_CalafatSerranoAlejandro_GarciaBaenaJulianManuel.csproj",
         "projectName": "Practica1_CalafatSerranoAlejandro_GarciaBaenaJulianManuel",
-        "projectPath": "C:\\Users\\Jmgar\\Ejercicios C#\\Practica1_CalafatSerranoAlejandro_GarciaBaenaJulianManuel\\Practica1_CalafatSerranoAlejandro_GarciaBaenaJulianManuel.csproj",
-        "packagesPath": "C:\\Users\\Jmgar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jmgar\\Ejercicios C#\\Practica1_CalafatSerranoAlejandro_GarciaBaenaJulianManuel\\obj\\",
+        "projectPath": "C:\\Users\\julia\\Source\\Repos\\jmgarciab2\\csharp_ejercicios\\Practica1_CalafatSerranoAlejandro_GarciaBaenaJulianManuel\\Practica1_CalafatSerranoAlejandro_GarciaBaenaJulianManuel.csproj",
+        "packagesPath": "C:\\Users\\julia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\julia\\Source\\Repos\\jmgarciab2\\csharp_ejercicios\\Practica1_CalafatSerranoAlejandro_GarciaBaenaJulianManuel\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Jmgar\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\julia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -54,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
